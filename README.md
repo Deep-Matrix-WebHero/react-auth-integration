@@ -1,3 +1,22 @@
+## project name:
+
+## important link:
+
+[liveLink](https://reverent-noyce-54d2b5.netlify.app/login)
+
+[github](https://github.com/Deep-Matrix-WebHero/react-auth-integration)
+[firebase](https://console.firebase.google.com/project/simple-firebase-auth-45962/settings/general/web:ZTI3YTNiNDItOTc0MS00MDMzLTlkZWMtZWYzODNiMDM2OTcy)
+[ReactRouter-dom-v5](https://reactrouter.com/docs/en/v6/getting-started/installation#basic-installation)
+[react.js](https://reactjs.org/docs/create-a-new-react-app.html)
+[react-bootstrap](https://react-bootstrap.github.io/getting-started/introduction)
+[react-icon](https://react-icons.github.io/react-icons/)
+[context-api](https://reactjs.org/docs/context.html)
+
+## topic covered
+
+1.Private Route 2.Auth Redirect 3.Route 4.create shipping route 5.useAuth custom hook
+6.Simple Auth Context and Auth Provider with value 7.Sign out and display user logged in User name 8.Google Sign using custom hook with on State Change 9.Create Use Firebase hook to for shared authentication 10.Basic Project Setup
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

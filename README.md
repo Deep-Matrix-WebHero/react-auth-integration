@@ -1,15 +1,21 @@
-## project name:
+## project name: react-auth-integration
 
 ## important link:
 
 [liveLink](https://reverent-noyce-54d2b5.netlify.app/login)
 
 [github](https://github.com/Deep-Matrix-WebHero/react-auth-integration)
+
 [firebase](https://console.firebase.google.com/project/simple-firebase-auth-45962/settings/general/web:ZTI3YTNiNDItOTc0MS00MDMzLTlkZWMtZWYzODNiMDM2OTcy)
+
 [ReactRouter-dom-v5](https://reactrouter.com/docs/en/v6/getting-started/installation#basic-installation)
+
 [react.js](https://reactjs.org/docs/create-a-new-react-app.html)
+
 [react-bootstrap](https://react-bootstrap.github.io/getting-started/introduction)
+
 [react-icon](https://react-icons.github.io/react-icons/)
+
 [context-api](https://reactjs.org/docs/context.html)
 
 ## topic covered
